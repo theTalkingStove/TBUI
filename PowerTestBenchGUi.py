@@ -1,5 +1,7 @@
 #GUI
 
+# GUI should push SCPI commands to equipment via GPIB. Live plotting of Drain Current, Gain, PAE, Pout v Pin may be desired. -KM
+
 # #Import tkinter library
 # from tkinter import *
 # #Create an instance of tkinter frame or window
